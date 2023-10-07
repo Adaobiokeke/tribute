@@ -1,5 +1,5 @@
 .container{
-    border:3px solid rgb(38, 38, 150);
+   
     margin:20px 20px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -13,4 +13,20 @@
 }
 h2{
     text-align:center;
+}
+.landing-img{
+    width:100%;
+    margin:0% auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border:1px solid; */
+    /* height:50%; */
+
+}
+.trib-pix{
+    width:180px;
+    height:130px;
+    border-radius:50%;
+    border:5px solid rgb(170, 163, 123);
 }
