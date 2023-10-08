@@ -25,8 +25,18 @@ h2{
 
 }
 .trib-pix{
-    width:180px;
-    height:130px;
+    width:220px;
+    height:180px;
     border-radius:50%;
     border:5px solid rgb(170, 163, 123);
+}
+.breakcontainer{
+    /* border:1px solid black; */
+    display: flex;
+    justify-content: center;
+
+}
+.line-break{
+    width:50%;
+    height:30%
 }
