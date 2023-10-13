@@ -10,6 +10,7 @@
 .signature{
     display:flex;
     justify-content:space-between;
+    /* border: 1px solid black; */
 }
 h2{
     text-align:center;
