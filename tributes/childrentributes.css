@@ -46,8 +46,18 @@ h2{
     /* border:1px solid black; */
     display: flex;
     justify-content: center;
+    
+}
+.breakcontainer2{
+    /* border:1px solid black; */
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-family:times, "Times New Roman",
 
 }
+
 .line-break{
     width:50%;
     height:30%
